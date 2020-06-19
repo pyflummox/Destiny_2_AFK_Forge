@@ -15,3 +15,7 @@ currently this isn't support for 1080p and I don't plan on adding that unless hi
 
 Future features that could come. 
 Picture recognition on the "Open Directory" from Destiny 2's orbit screen and/or the forge icon. This could save time but it isn't instant as finding pictures on screens is slow. Please let me know if you have any questions or suggestions on the script. thanks. 
+
+
+If you want a compiled version please download from here. I compiled with pyinstaller
+https://drive.google.com/file/d/1-qpe1VM7jpp1aPHPBukoLUVjsfWFmPH0/view?usp=sharing
